@@ -48,13 +48,12 @@ We also had to consider other ways to detect someone entering/leaving the room- 
 ## 2.Problems Encountered
 **(1)Difficulties setting up working Raspi at home without equipment**
 
-Since we intended to do a lot of work off campus, we tried to  connect the raspberry pi to share internet with our pcs and at-home wifi (no one has a monitor, keyboard, or required HDMI cable off-campus). The initial connection by bridging the wifi and ethernet in our laptop worked and we were able to find the dynamic Raspi IP address to input into Putty using Advanced IP Scanner, to SSH in an setup wireless connections through the Raspi’s command line. However, the wireless connection was unsuccessful (not sure why), and we decided to go through the multiple steps to stay with sharing the pc’s internet with the Raspi. We used these tutorials for sharing wifi through an ethernet cable and setting up wifi through the command line. 
+Since we intended to do a lot of work off campus, we tried to  connect the raspberry pi to share internet with our pcs and at-home wifi (no one has a monitor, keyboard, or required HDMI cable off-campus). The initial connection by bridging the wifi and ethernet in our laptop worked and we were able to find the dynamic Raspi IP address to input into Putty using Advanced IP Scanner, to SSH in an setup wireless connections through the Raspi’s command line. However, the wireless connection was unsuccessful (not sure why), and we decided to go through the multiple steps to stay with sharing the pc’s internet with the Raspi. We used these tutorials for [sharing wifi through an ethernet cable](https://www.hackster.io/Anwaarullah/sharing-wifi-with-raspberry-pi-using-a-lan-cable-ae1f44) and [setting up wifi through the command line](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md). 
 
 **(2)Difficulties on placing the sensor (see Future Plan)**
 
 ## 3.Future Plan
 For the first half of the week of September 29th, we will be building the door frame as shown in Figure 2 in either the IDeATe or CEE woodshop. Then we’ll be able to determine how to install/feasibility of the capacitive lock sensor. 
-
 We will also try to run code to access sensor readings for the distance sensor, accelerometer, photo resistor and light sensor. Over the past weekend, we have not been able to use the Raspi easily but spent time collecting possible resources. 
 
 
