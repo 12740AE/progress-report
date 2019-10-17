@@ -1,4 +1,4 @@
-# **Welcome to Smart Dorm/Home Security **
+# Welcome to Smart Dorm/Home Security 
 
 ## 1. Current progress
 
@@ -14,9 +14,7 @@ Photoresistor: comes with kit
 
 Light sensor: comes with kit
 
-<p align="center">
-<img src="./image/progress1.png" width="350">
-</p>
+<p align="center"> <img src="./image/progress1.png" width="350"> </p>
 
 <p align="center">
 figure1
