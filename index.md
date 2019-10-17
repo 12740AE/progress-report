@@ -15,6 +15,6 @@ Photoresistor: comes with kit
 Light sensor: comes with kit
 
 <p align="center">
-<img src=dadas"./image/progress1.png" width="350">
+<img src="./image/progress1.png" width="350">
 </p>
 
