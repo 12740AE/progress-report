@@ -2,7 +2,7 @@
 
 ## 1. Current progress
 
-We’ve procured all of the sensors we plan on using, to get an initial feel of what kind of readings/range of readings we can expect to get. The following was procured, along with 3.5’’ door hinges to build the model door for this project:
+<font size=4> We’ve procured all of the sensors we plan on using, to get an initial feel of what kind of readings/range of readings we can expect to get. The following was procured, along with 3.5’’ door hinges to build the model door for this project:
 
 *Sensors needed*
 
@@ -31,7 +31,6 @@ Figure 2: Diagram of model door we intend to make in woodshop
 </p>
 
 For the lock detection sensor:
-
 For the lock bolt, we decided to just use a dowel in guide holes, shown in Figure 3, just for the proof of concept of the lock-detection capacitive touch sensor. We may need a second Raspberry Pi for the door frame since leads and the sensor are not directly on the door, but on the frame side instead. We will decide how to embed the sensor in the doorframe after building our model through to October 1st. 
 
 <p align="center">
