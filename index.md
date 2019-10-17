@@ -2,7 +2,7 @@
 
 ## 1. Current progress
 
-<font size=4> We’ve procured all of the sensors we plan on using, to get an initial feel of what kind of readings/range of readings we can expect to get. The following was procured, along with 3.5’’ door hinges to build the model door for this project:
+<font size=10> We’ve procured all of the sensors we plan on using, to get an initial feel of what kind of readings/range of readings we can expect to get. The following was procured, along with 3.5’’ door hinges to build the model door for this project:
 
 *Sensors needed*
 
