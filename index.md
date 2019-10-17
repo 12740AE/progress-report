@@ -16,5 +16,15 @@ Light sensor: comes with kit
 
 <p align="center">
 <img src="./image/progress1.png" width="350">
+figure1
+</p>
+
+
+<p align="center">
+<img src="./image/progress2.png" width="350">
+</p>
+
+<p align="center">
+<img src="./image/progress3.png" width="350">
 </p>
 
