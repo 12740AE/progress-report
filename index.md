@@ -1,5 +1,4 @@
-# Welcome to Smart Dorm/Home Security 
-# Progress Report
+# Smart Dorm/Home Securit Progress Report
 
 ## 1. Current progress
 
