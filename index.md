@@ -14,4 +14,4 @@ Photoresistor: comes with kit
 
 Light sensor: comes with kit
 
-![Figure 1: Door hinges and ADXL 335 accelerometer acquired for project](/image/
+![Figure 1: Door hinges and ADXL 335 accelerometer acquired for project](/image/progress1.png)
