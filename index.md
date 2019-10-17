@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# **Welcome to Smart Dorm/Home Security **
 
-You can use the [editor on GitHub](https://github.com/12740AE/progress-report/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 1. Current progress
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We’ve procured all of the sensors we plan on using, to get an initial feel of what kind of readings/range of readings we can expect to get. The following was procured, along with 3.5’’ door hinges to build the model door for this project:
 
-### Markdown
+*Sensors needed*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Distance sensor: Ultrasonic Ranging Detector HC-SR04 [Tutorial](https://thepihut.com/blogs/raspberry-pi-tutorials/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi)
 
-```markdown
-Syntax highlighted code block
+Accelerometer sensor: ADXL 335 3 axis [Tutorial](https://www.abelectronics.co.uk/kb/article/28/adc-differential-pi-with-adxl335-accelerometer) [Tutorial2](https://www.abelectronics.co.uk/kb/article/28/adc-differential-pi-with-adxl335-accelerometer)
 
-# Header 1
-## Header 2
-### Header 3
+Photoresistor: comes with kit
 
-- Bulleted
-- List
+Light sensor: comes with kit
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/12740AE/progress-report/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Figure 1: Door hinges and ADXL 335 accelerometer acquired for project](/image/
